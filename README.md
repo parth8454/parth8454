@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=0077B5&vCenter=true&width=600&lines=AI%2FML+%26+Full-Stack+Developer;Expertise+in+LangChain%2C+LangGraph+%26+NLP;MERN+Stack;2x+Products+Shipped" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=200&color=0077B5&vCenter=true&width=600&lines=AI%2FML+%26+Full-Stack+Developer;Expertise+in+LangChain%2C+LangGraph+%26+NLP;MERN+Stack;2x+Products+Shipped" alt="Typing SVG" />
 </a>
 
 ## 🌐 Socials:
